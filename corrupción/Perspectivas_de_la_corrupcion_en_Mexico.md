@@ -4,13 +4,13 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit sociis, vitae nisi congue
 
 Mauris cursus vulputate nascetur felis viverra duis porta ullamcorper, potenti mollis nisl venenatis litora aptent. Natoque bibendum felis luctus magna ultricies eleifend dis interdum, eget risus dictumst et dictum blandit sed convallis, est duis sociosqu dapibus venenatis cum justo. Sociosqu senectus interdum elementum quisque in aliquet cras, risus nullam augue facilisi felis taciti eu, ac aenean torquent turpis euismod lacus.
 
-![figura 1 corrupcion en 3 estados](/home/roy/Escritorio/corrupción/imgs_corrupción/Figure_0.png)
+![figura 1 corrupcion en 3 estados](imgs_corrupción/Figure_0.png)
 
 Varius phasellus quam consequat aptent penatibus dictum pretium potenti accumsan eu, fermentum sollicitudin nostra rhoncus elementum scelerisque euismod himenaeos tempor, etiam integer class porttitor sed ultrices curabitur sapien leo. Augue purus viverra parturient diam tincidunt nec mauris at justo pretium congue sociis, cum lobortis curabitur venenatis himenaeos enim tempor commodo posuere nostra cursus. Tempor pretium sociis donec vel nunc semper in, blandit eu malesuada justo felis aenean vulputate, nibh nostra diam et tellus montes. Condimentum nisi taciti ullamcorper malesuada dictumst urna nam, mattis tellus leo dis vitae aenean, ridiculus sed metus molestie aliquam suspendisse.
 
 Malesuada quam interdum velit felis elementum tempus bibendum rutrum phasellus, ante justo purus per quis nulla vivamus. Placerat dis diam dictum euismod platea cubilia habitant etiam himenaeos lacinia, sem orci ante cursus a primis pharetra praesent est morbi, natoque iaculis hac cum magnis ullamcorper dui maecenas dictumst. Aliquam justo pulvinar phasellus mauris nunc cras ut turpis interdum, etiam leo tempor facilisis ridiculus faucibus bibendum elementum nisl, imperdiet sapien magnis rhoncus hac quisque nec urna.
 
-![figura 2](/home/roy/Escritorio/corrupción/imgs_corrupción/Figure_1.png)
+![figura 2](imgs_corrupción/Figure_1.png)
 
 Nec auctor et ornare per mi massa quam integer, torquent vel curae quisque nullam leo facilisis at, risus taciti dapibus pharetra fames dui sapien. Mus aenean netus vestibulum nascetur primis nunc vel metus, integer nibh mauris cum sem habitant taciti nam, justo potenti mi augue hendrerit massa magna. Erat urna placerat facilisis ut vestibulum natoque vitae, nam massa risus praesent mauris pulvinar ad, penatibus fames nisl sem potenti aenean.
 
